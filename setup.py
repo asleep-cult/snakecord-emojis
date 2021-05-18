@@ -6,5 +6,6 @@ setuptools.setup(
     name='snakecord-emojis',
     description='All Discord emojis for snakecord',
     packages=['snakecord.emojis'],
-    version='0.0.1'
+    version='0.0.1',
+    url='https://github.com/asleep-cult/snakecord-emojis',
 )
